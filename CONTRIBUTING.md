@@ -7,15 +7,15 @@ Thanks for being willing to contribute!
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Engineering Guidelines](#development-setup)
 
-## [](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md#help-needed)Help needed
+## [](https://github.com/nshcore/community/blob/master/CONTRIBUTING.md#help-needed)Help needed
 
-Please checkout the  [ROADMAP](https://github.com/atlascity/community/blob/master/docs/ROADMAP.md)  and raise an issue to discuss any of the items
+Please checkout the  [ROADMAP](https://github.com/nshcore/community/blob/master/docs/ROADMAP.md)  and raise an issue to discuss any of the items
 
-## [](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md#making-changes)Making Changes
+## [](https://github.com/nshcore/community/blob/master/CONTRIBUTING.md#making-changes)Making Changes
 
-- All changes should follow the [pull request guidelines](https://github.com/atlascity/Community/blob/master/PULL_REQUEST_TEMPLATE.md)
+- All changes should follow the [pull request guidelines](https://github.com/nshcore/Community/blob/master/PULL_REQUEST_TEMPLATE.md)
 
-### [](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md#committing-and-pushing-changes)Committing and Pushing changes
+### [](https://github.com/nshcore/community/blob/master/CONTRIBUTING.md#committing-and-pushing-changes)Committing and Pushing changes
 
 Once you are ready to commit the changes, please use the below commands
 
@@ -24,7 +24,7 @@ Once you are ready to commit the changes, please use the below commands
 
 _Note: please use present tense in commit messages i.e.  `Add feature X`  and not_ `Added feature X`
 
-### [](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md#add-yourself-as-a-contributor)Add yourself as a contributor
+### [](https://github.com/nshcore/community/blob/master/CONTRIBUTING.md#add-yourself-as-a-contributor)Add yourself as a contributor
 
 This project follows the  [all contributors](https://github.com/kentcdodds/all-contributors)  specification. To add yourself to the table of contributors on the README.md, please use the automated script as part of your PR:
 
@@ -46,7 +46,7 @@ Please remember to do the following:
 -   Search the issue repository to see if there exists a duplicate.
 -   Simplify your code around the issue so we can better isolate the problem.
 
-### [](https://github.com/atlascity/community/submitting-bugs-and-suggestions.md#before-submitting-an-issue)Before Submitting an Issue
+### [](https://github.com/nshcore/community/submitting-bugs-and-suggestions.md#before-submitting-an-issue)Before Submitting an Issue
 
 First, please do a search for open issues in the issue tab to see if the issue or feature request has already been filed.
 
@@ -56,9 +56,9 @@ If you find your issue already exists, make relevant comments and add your react
 
 👎 - downvote
 
-If you cannot find an existing issue that describes your bug or feature, submit an issue using the [issue template](https://github.com/atlascity/Community/blob/master/ISSUE_TEMPLATE.md).
+If you cannot find an existing issue that describes your bug or feature, submit an issue using the [issue template](https://github.com/nshcore/Community/blob/master/ISSUE_TEMPLATE.md).
 
 
-## [](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md#engineering-guidelines)Engineering Guidelines
+## [](https://github.com/nshcore/community/blob/master/CONTRIBUTING.md#engineering-guidelines)Engineering Guidelines
 
-1.  Follow the Atlas City Engineering Guidelines https://github.com/atlascity/Community/wiki/Engineering-Guidelines
+1.  Follow the Atlas City Engineering Guidelines https://github.com/nshcore/Community/wiki/Engineering-Guidelines

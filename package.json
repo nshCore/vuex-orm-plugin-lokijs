@@ -1,19 +1,13 @@
 {
-  "name": "@atlascity/vuex-orm-plugin-lokijs",
+  "name": "@nshcore/vuex-orm-plugin-lokijs",
   "description": "vuex-orm LokiJS persistance plugin.",
   "version": "0.0.3",
   "author": {
     "name": "James Kirkby",
-    "email": "james.kirby@atlascity.io"
+    "email": "nshcore@protonmail.com"
   },
-  "contributors": [
-    {
-      "name": "Konrad Moskal",
-      "email": "konrad.moskal@atlascity.io"
-    }
-  ],
   "bugs": {
-    "url": "https://github.com/atlascity/vuex-orm-plugin-lokijs/issues"
+    "url": "https://github.com/nshcore/vuex-orm-plugin-lokijs/issues"
   },
   "dependencies": {
     "@vuex-orm/core": "^0.27.0",
@@ -50,14 +44,16 @@
     "typescript": "^3.0.3",
     "typescript-eslint-parser": "^18.0.0",
     "uglify-js": "^2.7.5",
-    "vue": "^2.6.6"
+    "vue": "^2.6.6",
+    "webpack": "^5.12.2",
+    "webpack-cli": "^4.3.1"
   },
   "files": [
     "dist/vuex-orm-lokijs.js",
     "lib/",
     "src"
   ],
-  "homepage": "https://github.com/atlascity/vuex-orm-plugin-lokijs#readme",
+  "homepage": "https://github.com/nshcore/vuex-orm-plugin-lokijs#readme",
   "main": "dist/vuex-orm-plugin-loki.js",
   "types": "types/index.d.ts",
   "keywords": [
@@ -69,18 +65,17 @@
     "vuex",
     "vuex-orm"
   ],
-  "license": "GPL-2.0-only",
+  "license": "MIT",
   "engines": {
     "node": ">= 8.11"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/atlascity/vuex-orm-plugin-lokijs.git"
+    "url": "git+ssh://git@github.com/nshcore/vuex-orm-plugin-lokijs.git"
   },
   "scripts": {
     "build": "npm run build:ts && webpack",
     "build:ts": "tsc -p src",
-    "test": "snyk test",
     "contributor": "all-contributors add",
     "contributor:gen": "all-contributors generate",
     "release": "conventional-github-releaser -p eslint",

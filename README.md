@@ -1,14 +1,14 @@
 # vuex-orm-plugin-loki
 
 
-[![npm version](https://badge.fury.io/js/%40atlascity%2Fvuex-orm-plugin-lokijs.svg)](https://badge.fury.io/js/%40atlascity%2Fvuex-orm-plugin-lokijs)
+[![npm version](https://badge.fury.io/js/%40nshcore%2Fvuex-orm-plugin-lokijs.svg)](https://badge.fury.io/js/%40nshcore%2Fvuex-orm-plugin-lokijs)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
 vuex-orm LokiJS persistance (Local Storage) plugin, with optional AES encryption.
 
 ## Installation
 
-`npm install @atlascity/vuex-orm-plugin-lokijs`
+`npm install @nshcore/vuex-orm-plugin-lokijs`
 
 ## Why & How
 	* We needed a persistent Local Storage based database.
@@ -171,23 +171,19 @@ MyModel.AES.forEach((key) => {
 ```
 
 ## :scroll: Changelog
-Details changes for each release are documented in the [CHANGELOG.md](https://github.com/atlascity/vuex-orm-plugin-loki/blob/develop/CHANGELOG.md).
+Details changes for each release are documented in the [CHANGELOG.md](https://github.com/nshcore/vuex-orm-plugin-loki/blob/develop/CHANGELOG.md).
 
 ## :exclamation: Issues
-Please make sure to read the [Issue Reporting Checklist](https://github.com/atlascity/vuex-orm-plugin-loki/blob/develop/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://github.com/nshcore/vuex-orm-plugin-loki/blob/develop/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 ## :muscle: Contribution
-Please make sure to read the [Contributing Guide](https://github.com/atlascity/vuex-orm-plugin-loki/blob/develop/CONTRIBUTING.md) before making a pull request.
+Please make sure to read the [Contributing Guide](https://github.com/nshcore/vuex-orm-plugin-loki/blob/develop/CONTRIBUTING.md) before making a pull request.
 
 ## Contributors
 Here are the wonderfull soles who contribute to this project
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://hub.docker.com/u/jkirkby91"><img src="https://avatars2.githubusercontent.com/u/21375475?v=4" width="100px;" alt="nshCore"/><br /><sub><b>nshCore</b></sub></a><br /><a href="https://github.com/nshCore/community/commits?author=nshCore" title="Code">💻</a> <a href="#example-nshCore" title="Examples">💡</a> <a href="#ideas-nshCore" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-nshCore" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#plugin-nshCore" title="Plugin/utility libraries">🔌</a></td><td align="center"><a href="https://github.com/dufia"><img src="https://avatars1.githubusercontent.com/u/5569649?v=4" width="100px;" alt="Konrad Moskal"/><br /><sub><b>Konrad Moskal</b></sub></a><br /><a href="https://github.com/nshCore/community/commits?author=dufia" title="Code">💻</a> <a href="#ideas-dufia" title="Ideas, Planning, & Feedback">🤔</a> <a href="#review-dufia" title="Reviewed Pull Requests">👀</a></td></tr></table>
+<table><tr><td align="center"><a href="https://hub.docker.com/u/jkirkby91"><img src="https://avatars2.githubusercontent.com/u/21375475?v=4" width="100px;" alt="nshCore"/><br /><sub><b>nshCore</b></sub></a><br /><a href="https://github.com/nshCore/community/commits?author=nshCore" title="Code">💻</a> <a href="#example-nshCore" title="Examples">💡</a> <a href="#ideas-nshCore" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-nshCore" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#plugin-nshCore" title="Plugin/utility libraries">🔌</a></td><td align="center"></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## :copyright: License
-
-[GPL-2.0-only](https://opensource.org/licenses/gpl-2.0.php)
